@@ -1,35 +1,19 @@
-# Welcome to my Profile 👋
-### Github Overview😄
+# Welcome to My Profile 👋
+
+### GitHub Overview 😄
 
 <a href="https://github.com/Kimokcheon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kimokcheon&count_private=true&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kimokcheon&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimokcheon&hide=html,javascript,css&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact" />
 </a>
 
+---
 
-- 🔭 I’m currently working on SCU CD BRL
+- 🔭 Currently, I'm working at SCU BRL.
+- 🌱 I'm a third-year student, focused on machine learning and neural networks. I use PyTorch, Spring Boot, and Flutter in my work.
+- 💡 I have a strong interest in large models.
+- 👯 I'm interested in collaborating on vision-language pretraining.
+- 📫 You can reach me at dengyuchuan@stu.scu.edu.cn.
+- ⚡ Fun Fact: I enjoy playing the piano, Valorant (Bronze), and League of Legends (Diamond).
 
-
-- 🌱 I’m currently learning machine learning and neural network
-
-
-- 👯 I’m looking to collaborate on Chengdu 
-
-
-- 📫 How to reach me: dengyuchuan@stu.scu.edu.cn
-
-
-<!--
-**Kimokcheon/Kimokcheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
