@@ -1,8 +1,6 @@
 # Welcome to My Profile 👋
-![visitors](https://visitor-badge.glitch.me/badge?https://github.com/Kimokcheon=page.id&left_color=green&right_color=red)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Kimokcheon&left_color=green&right_color=red)
 ![GitHub followers](https://img.shields.io/github/followers/Kimokcheon?logo=Github)
-
 ![GitHub User's stars](https://img.shields.io/github/stars/Kimokcheon?affiliations=OWNER%2CCOLLABORATOR&label=all%20stars&logo=Github)
 
 I'm Yuchuan Deng (邓钰川), a senior student at SCU.
