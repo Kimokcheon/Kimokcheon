@@ -1,6 +1,8 @@
 # Welcome to My Profile 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Kimokcheon&left_color=green&right_color=red)
+
 ![GitHub followers](https://img.shields.io/github/followers/Kimokcheon?logo=Github)
+
 ![GitHub User's stars](https://img.shields.io/github/stars/Kimokcheon?affiliations=OWNER%2CCOLLABORATOR&label=all%20stars&logo=Github)
 
 I'm Yuchuan Deng (邓钰川), a senior student at SCU.
@@ -34,5 +36,7 @@ I'm Yuchuan Deng (邓钰川), a senior student at SCU.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimokcheon&hide=html,javascript,css&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact" />
 </a>
 Feel free to explore my repositories and contribute. Let's build something amazing together!
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimokcheon)](https://github.com/Kimokcheon)
+
 ![Kimokcheon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kimokcheon)
