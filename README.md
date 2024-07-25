@@ -35,6 +35,4 @@ I'm Yuchuan Deng (邓钰川), a senior student at SCU.
 
 Feel free to explore my repositories and contribute. Let's build something amazing together!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimokcheon)](https://github.com/Kimokcheon)
-
 ![Kimokcheon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kimokcheon)
