@@ -3,10 +3,10 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/Kimokcheon?affiliations=OWNER%2CCOLLABORATOR&label=all%20stars&logo=Github)
 
 
-I'm Yuchuan Deng (邓钰川), a First-Year PhD Student at Renmin University of China (RUC) [🔗 RUC](https://www.ruc.edu.cn/)
+I'm Yuchuan Deng (邓钰川), a First-Year PhD Student at [Renmin University of China (RUC)](https://www.ruc.edu.cn/)
 
 ### 🎓 About Me  
-- 🔭 Currently working at the **AI & Media Computing Lab** ([AIMC Lab](https://ruc-aimc-lab.github.io/)), Renmin University of China, under the supervision of **Prof. Xirong Li** ([Xirong Li](https://lixirong.net/)).  
+- 🔭 Currently working at the **AI & Media Computing Lab** ([AIMC Lab](https://ruc-aimc-lab.github.io/)), Renmin University of China, under the supervision of Prof. [**Xirong Li** ](https://lixirong.net/)).  
 - 🌱 My research focuses on **efficient fine-tuning of multimodal large models, multimedia alignment, ophthalmic AI, and vision-language pretraining**.  
 - 👯 I’m interested in collaborating on **adapting multimodal large models to specialized domains**.  
 - 📫 Feel free to reach me at **dengyuchuan@stu.scu.edu.cn**.  
