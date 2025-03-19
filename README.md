@@ -2,24 +2,20 @@
 ![GitHub followers](https://img.shields.io/github/followers/Kimokcheon?logo=Github)
 ![GitHub User's stars](https://img.shields.io/github/stars/Kimokcheon?affiliations=OWNER%2CCOLLABORATOR&label=all%20stars&logo=Github)
 
-I'm Yuchuan Deng (邓钰川), a senior student at SCU.
 
-### 🎓 About Me:
+I'm Yuchuan Deng (邓钰川), a First-Year PhD Student at Renmin University of China (RUC) [🔗 RUC](https://www.ruc.edu.cn/)
 
-- 🔭 Currently working at SCU BRL.
-- 🌱 Focused on machine learning and neural networks. Proficient in PyTorch, Spring Boot, and Flutter.
-- 💡 Passionate about large models.
-- 👯 Interested in collaborating on vision-language pretraining.
-- 📫 Reach me at dengyuchuan@stu.scu.edu.cn.
-- ⚡ Fun Fact: I enjoy playing the piano, Valorant (Bronze), and League of Legends (Diamond).
+### 🎓 About Me  
+- 🔭 Currently working at the **AI & Media Computing Lab** ([AIMC Lab](https://ruc-aimc-lab.github.io/)), Renmin University of China, under the supervision of **Prof. Xirong Li** ([Xirong Li](https://lixirong.net/)).  
+- 🌱 My research focuses on **efficient fine-tuning of multimodal large models, multimedia alignment, ophthalmic AI, and vision-language pretraining**.  
+- 👯 I’m interested in collaborating on **adapting multimodal large models to specialized domains**.  
+- 📫 Feel free to reach me at **dengyuchuan@stu.scu.edu.cn**.  
 
-### 🔭 Research Interests:
+### 🔍 **Research Interests**  
 
-- Vision-Language Pretraining
-- Parameter Efficient Transfer Learning
-- Text-Based Person Retrieval
-- Text-Based Face Generation
-- Biometrics
+- Vision-Language Pretraining  
+- Parameter-Efficient Transfer Learning  
+- Multimodal Large Language Models  
 
 ### 🛠️ Programming Skills:
 
