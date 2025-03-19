@@ -7,7 +7,7 @@ I'm Yuchuan Deng (邓钰川), a Ph.D. candidate at the [School of Information](h
 
 ### 🎓 About Me
 
-- **Education**: I earned my **Bachelor of Engineering** degree in **Computer Science and Technology** from the [College of Computer Science](https://cs.scu.edu.cn/) at [Sichuan University (SCU)](https://www.scu.edu.cn/), where I was advised by [Prof. Qijun Zhao](http://www.scubrl.org/qjzhao). 
+- **Education**: I have earned my Bachelor of Engineering degree in Computer Science and Technology from the [College of Computer Science](https://cs.scu.edu.cn/) at [Sichuan University (SCU)](https://www.scu.edu.cn/), where I was advised by [Prof. Qijun Zhao](http://www.scubrl.org/qjzhao). 
 
 - **Current Research**: I am currently a Ph.D. student at the [AI & Media Computing Lab (AIMC Lab)](https://ruc-aimc-lab.github.io/), [Renmin University of China (RUC)](https://www.ruc.edu.cn/), under the supervision of [Prof. Xirong Li](https://lixirong.net/).
 
