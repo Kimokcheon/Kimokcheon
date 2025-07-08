@@ -11,24 +11,13 @@ I'm Yuchuan Deng (邓钰川), a Ph.D. candidate at the [School of Information](h
 
 - **Current Research**: I am currently a Ph.D. student at the [AI & Media Computing Lab (AIMC Lab)](https://ruc-aimc-lab.github.io/), [Renmin University of China (RUC)](https://www.ruc.edu.cn/), under the supervision of [Prof. Xirong Li](https://lixirong.net/).
 
-- **Research Interests**: My research interests include **efficient fine-tuning of multimodal large models**, **medical image analysis**, and **vision-language pretraining**.
-
-- **Collaboration**: I am open to collaborations on **adapting multimodal large models for specialized domains**.
-
-- **Contact**: Feel free to reach out to me at **dengyuchuan@stu.scu.edu.cn**.
+- **Research Interests**: My research interests include **Parameter-Efficient Fine-Tuning**,  and **Vision-Language Pretraining**.
 
 ### 🔍 Research Interests
 
 - Vision-Language Pretraining  
 - Parameter-Efficient Transfer Learning  
 - Multimodal Large Language Models  
-
-### 🛠️ Programming Skills:
-
-- ![C](https://img.shields.io/badge/-C-000?&logo=C)
-- ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-- ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-- ![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
 
 <a href="https://github.com/Kimokcheon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kimokcheon&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
