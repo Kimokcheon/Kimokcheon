@@ -11,8 +11,6 @@ I'm Yuchuan Deng (邓钰川), a Ph.D. candidate at the [School of Information](h
 
 - **Current Research**: I am currently a Ph.D. student at the [AI & Media Computing Lab (AIMC Lab)](https://ruc-aimc-lab.github.io/), [Renmin University of China (RUC)](https://www.ruc.edu.cn/), under the supervision of [Prof. Xirong Li](https://lixirong.net/).
 
-- **Research Interests**: My research interests include **Parameter-Efficient Fine-Tuning**,  and **Vision-Language Pretraining**.
-
 ### 🔍 Research Interests
 
 - Vision-Language Pretraining  
@@ -23,7 +21,3 @@ I'm Yuchuan Deng (邓钰川), a Ph.D. candidate at the [School of Information](h
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kimokcheon&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimokcheon&hide=html,javascript,css&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact" />
 </a>
-
-Feel free to explore my repositories and contribute. Let's build something amazing together!
-
-![Kimokcheon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kimokcheon)
