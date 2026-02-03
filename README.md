@@ -17,7 +17,7 @@ I'm Yuchuan Deng, a Ph.D. candidate at the [School of Information](https://info.
 - Parameter-Efficient Transfer Learning  
 - Multimodal Large Language Models  
 
-<a href="https://github.com/Kimokcheon">
+<!-- <a href="https://github.com/Kimokcheon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kimokcheon&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimokcheon&hide=html,javascript,css&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact" />
-</a>
+</a> -->
