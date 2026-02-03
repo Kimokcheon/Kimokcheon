@@ -9,13 +9,13 @@ I'm Yuchuan Deng, a Ph.D. candidate at the [School of Information](https://info.
 
 - **Education**: I have earned my Bachelor of Engineering degree in Computer Science and Technology from the [College of Computer Science](https://cs.scu.edu.cn/) at [Sichuan University (SCU)](https://www.scu.edu.cn/), where I was advised by [Prof. Qijun Zhao](http://www.scubrl.org/qjzhao). 
 
-- **Current Research**: I am a Ph.D. candidate at the [AI & Media Computing Lab (AIMC Lab)](https://ruc-aimc-lab.github.io/), [Renmin University of China (RUC)](https://www.ruc.edu.cn/), under the supervision of [Prof. Xirong Li](https://lixirong.net/).
+- **Current**: I am a Ph.D. candidate at the [AI & Media Computing Lab (AIMC Lab)](https://ruc-aimc-lab.github.io/), [Renmin University of China (RUC)](https://www.ruc.edu.cn/), under the supervision of [Prof. Xirong Li](https://lixirong.net/).
 
-### 🔍 Research Interests
+<!-- ### 🔍 Research Interests
 
 - Vision-Language Pretraining  
 - Parameter-Efficient Transfer Learning  
-- Multimodal Large Language Models  
+- Multimodal Large Language Models   -->
 
 <!-- <a href="https://github.com/Kimokcheon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kimokcheon&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
